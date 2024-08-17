@@ -1,0 +1,22 @@
+{
+  "name": "animations",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "ts": "^0.2.2",
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/animejs": "^3.1.12",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
